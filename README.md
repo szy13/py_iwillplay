@@ -3,7 +3,7 @@
 
 iwillplay.ru web scraping module
 
-![license](https://img.shields.io/github/license/szy13/py_torrentgamers)
+![license](https://img.shields.io/github/license/szy13/py_iwillplay)
 [![telegram](https://img.shields.io/badge/telegram-szyxiii-blue)](https://t.me/szyxiii)
 
 ## Requirements
